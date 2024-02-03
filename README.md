@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @SirajMabsout
-
 <h1 align="center">Hi 👋, I'm Siraj Mabsout</h1>
 <h3 align="center">A passionate Computer Science studend from Lebanon</h3>
 
